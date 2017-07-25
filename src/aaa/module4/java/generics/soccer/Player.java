@@ -26,7 +26,7 @@ public class Player {
 		this.name = name;
 	}
 	
-	public String toString()aaa.module4.java.generics{
+	public String toString(){
 		return this.number.toString() + " - " + this.name; 
 	}
 }
